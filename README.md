@@ -12,6 +12,8 @@
 
 [Projeto no Figma](https://www.figma.com/file/dPHyzKfTNwDwgmqFFInYQ7/HopeHarvest?type=design&node-id=2%3A40&t=kiov5mU9dviB6M2u-1)
 
+[Sample](https://hopeharvest.vercel.app/)
+
 --- 
 
 ## Introdução
