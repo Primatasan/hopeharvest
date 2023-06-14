@@ -12,7 +12,7 @@ export default function FaqItem(props){
   return(
     <AccordionItem borderTopWidth={'0'}>
       <AccordionButton  _expanded={{ bg: '#F17456', color: '#FCFCFC'}} className='faq_title'>
-        <Box as="h3" flex='1' textAlign='left' borderTopColor={'white'}>
+        <Box flex='1' textAlign='left' borderTopColor={'white'}>
           <h3>{props.title}</h3>
         </Box>
         <AccordionIcon />
