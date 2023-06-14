@@ -1,0 +1,61 @@
+.footer_box{
+    font-family: 'Signika', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 300px;
+    background-color: #F17456;
+    padding: 45px 100px;
+}
+
+.logo_footer{
+    height: 65px;
+}
+
+.app_card{
+    display: flex;
+}
+
+.footer_box h3{
+    color: #FCFCFC;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.app_logo{
+    margin-right: 25px;
+}
+
+.box01 p{
+    font-size: 16px;
+    color: #FCFCFC;
+    margin:25px 0;
+}
+
+.box02 p, .box03 p{
+    cursor: pointer;
+    font-size: 16px;
+    color: #FCFCFC;
+    margin: 15px 0;
+}
+
+.contact_card{
+    display: flex;
+    align-items: center;
+}
+
+.contact_card p{
+    cursor: default;
+    margin-left: 10px;
+}
+
+.social_icons_card{
+    margin-top: 45px;
+}
+
+.social_icon{
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+

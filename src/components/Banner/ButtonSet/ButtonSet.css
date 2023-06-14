@@ -1,0 +1,15 @@
+.button_set{
+    padding: 5px 15px;
+    border-radius: 15px;
+    background-color: #328C7C;
+    font-family: 'Signika', sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color:#FCFCFC;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+
+.button_set:hover{
+    background-color: #246458;
+}

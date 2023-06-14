@@ -1,0 +1,18 @@
+.big_number_card{
+    font-family: 'Signika', sans-serif;
+    display: flex;
+    align-items: center;
+    width: 35%;
+}
+
+.big_number_card h2{
+    color: #F17456;
+    font-weight: bold;
+    font-size: 140px;
+}
+
+.big_number_card p{
+    font-weight: normal;
+    font-size: 22px;
+    margin-left: 10px;
+}

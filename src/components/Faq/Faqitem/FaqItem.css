@@ -1,0 +1,18 @@
+.faq_title{
+    font-family: 'Signika', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+    border-bottom: solid 2px #F17456;
+    
+}
+
+.faq_title:hover{
+    background-color: #F17456;
+    color: #FCFCFC;
+}
+
+.faq_text{
+    font-family: 'Signika', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+}

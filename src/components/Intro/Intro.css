@@ -1,0 +1,40 @@
+.intro_box{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.intro_card{
+    width: 70%;
+    display: flex;
+}
+
+.intro_card img{
+    width: 432px;
+    height: 399px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
+.text_card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 45px;
+}
+
+.text_card h1{
+    font-family: 'Signika', sans-serif;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 40px;
+    color:#F17456;
+    margin-bottom:45px ;
+}
+
+.text_card p{
+    font-family: 'Signika', sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+}
+
