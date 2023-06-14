@@ -4,11 +4,6 @@
     
 }
 
-.faq_title h3{
-    font-size: 30px;
-    font-weight: bold;
-}
-
 .faq_title:hover{
     background-color: #F17456;
     color: #FCFCFC;
